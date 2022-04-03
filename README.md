@@ -23,6 +23,20 @@ Install it via pip:
 pip install django-ptpython
 ```
 
+### Check for Prerequisites
+
+1. Django
+
+```bash
+pip install django
+```
+
+2. PtPython
+
+```bash
+pip install ptpython
+```
+
 ### Install the App
 
 Add `django-ptpython` to your `INSTALLED_APPS` setting:

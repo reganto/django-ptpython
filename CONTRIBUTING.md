@@ -7,7 +7,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Acceptable Contributions
 
-The purpose of this package is integrate ptpython REPL with Django shell. If you would like to participate, the following should be considered in your pull requests:
+The purpose of this package is to use PtPython as default Django shell. If you would like to participate, the following should be considered in your pull requests:
 
 - Add a new feature
 
