@@ -1,5 +1,6 @@
 name: Linters
-on: [push]
+on: 
+  workflow_dispatch:
 jobs:
   Black:
     runs-on: ubuntu-latest
