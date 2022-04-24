@@ -42,26 +42,19 @@ INSTALLED_APPS = [
 ```bash
 ./manage shell
 ```
-### Resources
 
-- [PyPI](https://pypi.org/project/django-ptpython/)
-
-- [Change Log](https://github.com/reganto/django-ptpython/blob/master/CHANGES.md)
-
-See the [open issues](https://github.com/reganto/django-ptpython/issues) for a full list of proposed features (and known issues).
+![screenshot](https://user-images.githubusercontent.com/29402115/164965563-5d2091ef-e880-49a3-bef9-f1fc49419e54.png)
 
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the Apache License. See `LICENSE.txt` for more information.
+Distributed under the Apache License. See [LICENSE](https://github.com/reganto/django-ptpython/blob/master/LICENSE.txt) for more information.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Project Link: [https://github.com/reganto/django-ptpython](https://github.com/reganto/django-ptpython)
-
-Email: [tell.reganto](mailto:tell.reganto@gmail.com)
+Email: tell.reganto[at]gmail[dotcom]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
