@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django_ptpython"
-version = "1.0.2"
+version = "1.0.3"
 description = "PtPython as default Django shell."
 authors = ["Reganto <tell.reganto@gmail.com>"]
 license = "Apache-2.0"
@@ -31,7 +31,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-django = "^3.2.14"
+django = ">=3.2.14"
 ptpython = "^3.0"
 
 [tool.poetry.dev-dependencies]
