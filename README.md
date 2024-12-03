@@ -20,6 +20,12 @@
 
 ### Install the Package
 
+Install latest version:
+
+```bash
+pip install git+https://github.com/reganto/django-ptpython
+```
+
 Install it via pip:
 
 ```bash
