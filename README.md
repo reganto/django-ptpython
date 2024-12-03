@@ -62,6 +62,8 @@ Distributed under the Apache License. See [LICENSE](https://github.com/reganto/d
 
 <!-- CONTACT -->
 
-## Contact
+## Open your mailbox and
 
-Email: tell.reganto[at]gmail[dot]com
+tell.reganto[at]gmail[dot]com
+
+Hi!
